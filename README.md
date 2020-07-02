@@ -1,5 +1,5 @@
 # vue-baidumap
-
+推荐一款超高标准的 Vue2.x 地图选择器组件VueBaiduMap。
 ## Project setup
 ```
 npm install
